@@ -4,7 +4,7 @@
     "next": null,
     "offset": 0,
     "previous": null,
-    "total_count": 1
+    "total_count": 2
   },
   "objects": [
     {
@@ -93,6 +93,93 @@
         }
       },
       "resource_uri": "/api/groups/21/"
+    },
+    {
+      "group_profile": {
+        "access": "public",
+        "categories": [
+          {
+            "count": null,
+            "description": "test ok",
+            "detail_url": "/groups/categories/test-category/",
+            "id": 2,
+            "member_count": 1,
+            "name": "test category",
+            "name_en": "test category",
+            "resource_counts": {
+              "all": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              },
+              "document": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              },
+              "layer": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              },
+              "map": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              }
+            },
+            "slug": "test-category"
+          }
+        ],
+        "created": "2020-12-04T21:01:44.596262",
+        "description": "A test group",
+        "description_en": "A test group",
+        "detail_url": "/groups/group/summit-people/",
+        "email": null,
+        "id": 21,
+        "last_modified": "2020-12-04T21:01:44.596292",
+        "logo": null,
+        "logo_url": "/static/geonode/img/missing_thumb.png",
+        "manager_count": 1,
+        "member_count": 1,
+        "resource_uri": "/api/group_profile/21/",
+        "slug": "summit-people",
+        "title": "Summit people",
+        "title_en": "Summit people"
+      },
+      "id": 22,
+      "name": "summit-people",
+      "resource_counts": {
+        "all": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        },
+        "document": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        },
+        "layer": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        },
+        "map": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        }
+      },
+      "resource_uri": "/api/groups/22/"
     }
   ]
 }
