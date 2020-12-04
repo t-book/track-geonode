@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "objects": [
+    {
+      "group_profile": {
+        "access": "public",
+        "categories": [
+          {
+            "count": null,
+            "description": "A awesome Testcat - Now with update!",
+            "detail_url": "/groups/categories/2102rc-testcat/",
+            "id": 3,
+            "member_count": 1,
+            "name": "2.10.2rc Testcat",
+            "name_en": "2.10.2rc Testcat",
+            "resource_counts": {
+              "all": {
+                "approved": 9,
+                "published": 9,
+                "total": 9,
+                "visible": 9
+              },
+              "document": {
+                "approved": 1,
+                "published": 1,
+                "total": 1,
+                "visible": 1
+              },
+              "layer": {
+                "approved": 7,
+                "published": 7,
+                "total": 7,
+                "visible": 7
+              },
+              "map": {
+                "approved": 1,
+                "published": 1,
+                "total": 1,
+                "visible": 1
+              }
+            },
+            "slug": "2102rc-testcat"
+          }
+        ],
+        "created": "2020-11-20T09:18:41.514319",
+        "description": "Public Group",
+        "description_en": "Public Group",
+        "detail_url": "/groups/group/public-group/",
+        "email": null,
+        "id": 20,
+        "last_modified": "2020-11-20T09:18:41.514389",
+        "logo": "/uploaded/people_group/img_1771.jpg",
+        "logo_url": "/uploaded/people_group/img_1771.jpg",
+        "manager_count": 1,
+        "member_count": 1,
+        "resource_uri": "/api/group_profile/20/",
+        "slug": "public-group",
+        "title": "Public Group",
+        "title_en": "Public Group"
+      },
+      "id": 21,
+      "name": "public-group",
+      "resource_counts": {
+        "all": {
+          "approved": 9,
+          "published": 9,
+          "total": 9,
+          "visible": 9
+        },
+        "document": {
+          "approved": 1,
+          "published": 1,
+          "total": 1,
+          "visible": 1
+        },
+        "layer": {
+          "approved": 7,
+          "published": 7,
+          "total": 7,
+          "visible": 7
+        },
+        "map": {
+          "approved": 1,
+          "published": 1,
+          "total": 1,
+          "visible": 1
+        }
+      },
+      "resource_uri": "/api/groups/21/"
+    }
+  ]
+}
