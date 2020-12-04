@@ -19,7 +19,7 @@
       "delivery": null,
       "documents_count": 0,
       "email": "",
-      "fax": "000",
+      "fax": null,
       "first_name": "Toni",
       "id": 1001,
       "language": "en",
@@ -28,12 +28,12 @@
       "maps_count": 0,
       "organization": "CSGIS",
       "position": null,
-      "profile": "",
+      "profile": "Open Source matters!",
       "profile_detail_url": "/people/profile/toni/",
       "resource_uri": "/api/profiles/1001/",
       "timezone": "Europe/Berlin",
       "username": "toni",
-      "voice": "000",
+      "voice": null,
       "zipcode": null
     },
     {
