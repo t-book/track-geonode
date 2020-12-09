@@ -108,16 +108,16 @@
             "name_en": "test category",
             "resource_counts": {
               "all": {
+                "approved": 2,
+                "published": 2,
+                "total": 2,
+                "visible": 2
+              },
+              "document": {
                 "approved": 1,
                 "published": 1,
                 "total": 1,
                 "visible": 1
-              },
-              "document": {
-                "approved": 0,
-                "published": 0,
-                "total": 0,
-                "visible": 0
               },
               "layer": {
                 "approved": 1,
@@ -155,16 +155,16 @@
       "name": "summit-people",
       "resource_counts": {
         "all": {
+          "approved": 2,
+          "published": 2,
+          "total": 2,
+          "visible": 2
+        },
+        "document": {
           "approved": 1,
           "published": 1,
           "total": 1,
           "visible": 1
-        },
-        "document": {
-          "approved": 0,
-          "published": 0,
-          "total": 0,
-          "visible": 0
         },
         "layer": {
           "approved": 1,
