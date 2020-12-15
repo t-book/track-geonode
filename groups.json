@@ -21,16 +21,16 @@
             "name_en": "2.10.2rc Testcat",
             "resource_counts": {
               "all": {
-                "approved": 13,
-                "published": 13,
-                "total": 13,
-                "visible": 13
+                "approved": 14,
+                "published": 14,
+                "total": 14,
+                "visible": 14
               },
               "document": {
-                "approved": 1,
-                "published": 1,
-                "total": 1,
-                "visible": 1
+                "approved": 2,
+                "published": 2,
+                "total": 2,
+                "visible": 2
               },
               "layer": {
                 "approved": 11,
@@ -68,16 +68,16 @@
       "name": "public-group",
       "resource_counts": {
         "all": {
-          "approved": 13,
-          "published": 13,
-          "total": 13,
-          "visible": 13
+          "approved": 14,
+          "published": 14,
+          "total": 14,
+          "visible": 14
         },
         "document": {
-          "approved": 1,
-          "published": 1,
-          "total": 1,
-          "visible": 1
+          "approved": 2,
+          "published": 2,
+          "total": 2,
+          "visible": 2
         },
         "layer": {
           "approved": 11,
