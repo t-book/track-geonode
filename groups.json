@@ -32,6 +32,18 @@
                 "total": 2,
                 "visible": 2
               },
+              "geoapp": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              },
+              "geostory": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              },
               "layer": {
                 "approved": 11,
                 "published": 11,
@@ -79,6 +91,18 @@
           "total": 2,
           "visible": 2
         },
+        "geoapp": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        },
+        "geostory": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        },
         "layer": {
           "approved": 11,
           "published": 11,
@@ -118,6 +142,18 @@
                 "published": 1,
                 "total": 1,
                 "visible": 1
+              },
+              "geoapp": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
+              },
+              "geostory": {
+                "approved": 0,
+                "published": 0,
+                "total": 0,
+                "visible": 0
               },
               "layer": {
                 "approved": 1,
@@ -165,6 +201,18 @@
           "published": 1,
           "total": 1,
           "visible": 1
+        },
+        "geoapp": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
+        },
+        "geostory": {
+          "approved": 0,
+          "published": 0,
+          "total": 0,
+          "visible": 0
         },
         "layer": {
           "approved": 1,
