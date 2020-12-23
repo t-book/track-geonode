@@ -21,16 +21,16 @@
             "name_en": "2.10.2rc Testcat",
             "resource_counts": {
               "all": {
-                "approved": 18,
-                "published": 18,
-                "total": 18,
-                "visible": 18
+                "approved": 19,
+                "published": 19,
+                "total": 19,
+                "visible": 19
               },
               "document": {
-                "approved": 4,
-                "published": 4,
-                "total": 4,
-                "visible": 4
+                "approved": 5,
+                "published": 5,
+                "total": 5,
+                "visible": 5
               },
               "geoapp": {
                 "approved": 0,
@@ -80,16 +80,16 @@
       "name": "public-group",
       "resource_counts": {
         "all": {
-          "approved": 18,
-          "published": 18,
-          "total": 18,
-          "visible": 18
+          "approved": 19,
+          "published": 19,
+          "total": 19,
+          "visible": 19
         },
         "document": {
-          "approved": 4,
-          "published": 4,
-          "total": 4,
-          "visible": 4
+          "approved": 5,
+          "published": 5,
+          "total": 5,
+          "visible": 5
         },
         "geoapp": {
           "approved": 0,
